@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{998A1BE7-5F6D-FF67-86EC-BAC4727C08E5}") = "KHo_Homework3 - Copy (4) - Copy", "Assembly-CSharp.csproj", "{35ABA52B-7F59-A2FA-4485-35F8F309D3B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35ABA52B-7F59-A2FA-4485-35F8F309D3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35ABA52B-7F59-A2FA-4485-35F8F309D3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35ABA52B-7F59-A2FA-4485-35F8F309D3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35ABA52B-7F59-A2FA-4485-35F8F309D3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal

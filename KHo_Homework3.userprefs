@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controller.cs">
+    <Files>
+      <File FileName="..\Class Examples\Assets\Scripts\raycastDemo.cs" Line="19" Column="38" />
+      <File FileName="..\KHo_Homework 2 - Copy\Assets\adventureScript.cs" Line="15" Column="56" />
+      <File FileName="Assets\Scripts\Controller.cs" Line="4" Column="24" />
+      <File FileName="Assets\Scripts\TrappedScript.cs" Line="4" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
